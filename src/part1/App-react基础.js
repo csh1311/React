@@ -23,4 +23,4 @@ const App = () => {
 }
 
 // 挂载到全局
-export default App;
+// export default App;
